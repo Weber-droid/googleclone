@@ -1,0 +1,12 @@
+.languages {
+    text-align: center;
+}
+
+.link-one {
+    text-decoration: none;
+    margin-left: 3px;
+}
+
+.link-one:hover {
+    text-decoration: underline;
+}

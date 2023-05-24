@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.google {
+    text-align: center;
+}
+
+.G {
+    color: blue;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.O {
+    color: red;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.O1 {
+    color: yellow;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.G1 {
+    color: blue;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.L {
+    color: green;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.E {
+    color: red;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bolder;
+}

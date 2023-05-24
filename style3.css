@@ -1,0 +1,30 @@
+.button {
+    width: 500px;
+    height: 70px;
+    background-color: white;
+    margin-left: 520px;
+}
+
+.google-search {
+    position: relative;
+    left: 135px;
+    top: 27px;
+    padding: 8px;
+    border: 0;
+}
+
+.feeling-lucky {
+    position: relative;
+    left: 170px;
+    top: 27px;
+    padding: 8px;
+    border: 0;
+}
+
+#border-one:hover {
+    border: 1px solid #afafaf;
+}
+
+#border-two:hover {
+    border: 1px solid #afafaf;
+}
